@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Base App</string>
+
+    <!-- Common -->
+    <string name="technical_issue">Technical Issue. Please try after some time.</string>
+
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open" translatable="false">Open</string>
+    <string name="nav_close" translatable="false">Close</string>
+    <string name="login_success">Login Success</string>
+    <string name="empty_dash">-</string>
+
+</resources>
